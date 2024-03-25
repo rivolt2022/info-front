@@ -21,7 +21,7 @@ TailAdmin utilizes the powerful features of **Next.js 13** and common features o
 - 45+ HTML Files
 - All Essential Elements and Files
 - Full Figma Design Source - As Shown on Demo
-___
+___.
 
 #### [TailAdmin Next.js FREE](https://free-nextjs-demo.tailadmin.com/)
 - 1 Unique Dashboard
