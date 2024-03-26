@@ -67,7 +67,7 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }: SidebarProps) => {
     >
       {/* <!-- SIDEBAR HEADER --> */}
       <div className="flex items-center justify-between gap-2 px-6 py-5.5 lg:py-6.5">
-        <div className="absolute left-0 top-0 w-full bg-white h-[80px] flex items-center pl-5">
+        <div className="absolute left-0 top-0 w-full bg-warning h-[80px] lg:bg-white flex items-center pl-5">
           <Link href="/">
             <img src="/images/logo/yonsei_logo.png" className="h-12 inline-flex m-auto"></img>
           </Link>
